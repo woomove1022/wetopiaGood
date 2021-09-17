@@ -15,7 +15,7 @@ body {
   }
   
   .rounded-circle { 
-    width: 23rem;
+    width: 23rem
     left: 1.55rem;
   }
   
@@ -144,7 +144,7 @@ body {
   
 
 .bgHooaah {
-  background-image: url(/assets/images/hooaahgr.jpg);
+  background-image: url(../images/hooaahgr.jpg);
 }
 
 .backlight {
