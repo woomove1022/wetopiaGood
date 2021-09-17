@@ -102,6 +102,10 @@ body {
   height:180px;
 }
 
+.padding-left{ 
+  padding-left: 0px;
+}
+
 .maincentercard {
   margin-top: 250px;
   margin-bottom: 250px;
